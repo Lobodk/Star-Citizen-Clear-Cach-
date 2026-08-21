@@ -2,7 +2,7 @@
 
 Una herramienta sencilla y ligera para **escanear y limpiar la caché de Star Citizen** de forma rápida y segura, sin tener que navegar manualmente por las carpetas del juego.
 
-![Star Citizen Cache Cleaner](https://placehold.co/900x500?text=Star+Citizen+Cache+Cleaner)
+
 
 ## ✨ Características
 
